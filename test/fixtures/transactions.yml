@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  descricao: MyString
+  valor: 9.99
+  data: 2013-09-20
+  category: 
+
+two:
+  descricao: MyString
+  valor: 9.99
+  data: 2013-09-20
+  category: 
